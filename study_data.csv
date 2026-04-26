@@ -2,3 +2,6 @@ topic,confidence,days_until_exam,difficulty,priority_score,risk
 Math,4,4,5,13,High Risk
 Reading,4,6,3,9,Medium Risk
 Science ,3,8,3,8,Medium Risk
+Geomertry ,2,3,5,16,High Risk
+Biology,4,2,3,13,High Risk
+English ,3,7,4,10,Medium Risk
