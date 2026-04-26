@@ -36,3 +36,19 @@ The program then calculates a priority score, classifies each topic as Low Risk,
 
 ```bash
 python3 app.py
+... (everything you already wrote)
+
+## Future Improvements
+
+- Add a machine learning model
+- Add user accounts
+- Add AI-generated study schedules
+- Track progress over time
+
+## Results
+
+### Study Plan Output
+![App Output](app_output.png)
+
+### Model Evaluation
+![Model Output](model_output.png)
