@@ -1,0 +1,4 @@
+topic,confidence,days_until_exam,difficulty,priority_score,risk
+Math,4,4,5,13,High Risk
+Reading,4,6,3,9,Medium Risk
+Science ,3,8,3,8,Medium Risk
