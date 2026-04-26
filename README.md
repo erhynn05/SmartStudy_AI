@@ -32,6 +32,7 @@ The program then calculates a priority score, classifies each topic as Low Risk,
 4. The system gives a risk level and recommendation.
 5. Data is saved into `study_data.csv`.
 
+```markdown
 ## How to Run
 
 ```bash
