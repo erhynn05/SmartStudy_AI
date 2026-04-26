@@ -32,17 +32,18 @@ The program then calculates a priority score, classifies each topic as Low Risk,
 4. The system gives a risk level and recommendation.
 5. Data is saved into `study_data.csv`.
 
-```markdown
+## Files in This Project
+
+- `app.py` - runs the StudySmart AI study planner
+- `model.py` - trains and evaluates the machine learning model
+- `study_data.csv` - stores user study data
+- `README.md` - explains the project
+- `app_output.png` - screenshot of the study planner output
+- `model_output.png` - screenshot of the model evaluation output
+
 ## How to Run
+
+Run the study planner:
 
 ```bash
 python3 app.py
-
-
-## Results
-
-### Study Plan Output
-![App Output](app_output.png)
-
-### Model Evaluation
-![Model Output](model_output.png)
