@@ -41,9 +41,21 @@ The program then calculates a priority score, classifies each topic as Low Risk,
 - `app_output.png` - screenshot of the study planner output
 - `model_output.png` - screenshot of the model evaluation output
 
+
+````markdown
 ## How to Run
 
 Run the study planner:
 
 ```bash
 python3 app.py
+
+## Results
+
+### Study Plan Output
+
+![App Output](app_output.png)
+
+### Model Evaluation
+
+![Model Output](model_output.png)
