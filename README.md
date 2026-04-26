@@ -54,8 +54,8 @@ python3 app.py
 
 ### Study Plan Output
 
-![App Output](app_output.png)
+![App Output](./app_output.png)
 
 ### Model Evaluation
 
-![Model Output](model_output.png)
+![Model Output](./model_output.png)
